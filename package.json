@@ -28,5 +28,8 @@
     "url": "https://github.com/AlexDefrese/just-tech-news/issues"
   },
   "homepage": "https://github.com/AlexDefrese/just-tech-news#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
 }
